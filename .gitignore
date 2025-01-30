@@ -1,2 +1,4 @@
 env/
 models/
+push.sh
+# .vscode/  # Keep .vscode directory for peacock color config across machines
