@@ -1,0 +1,16 @@
+name: 
+  /Volumes/NAS/Projects/Machine-Learning/classification/heart-disease-classification/env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.12.8
+  - scikit-learn
+  - seaborn
+prefix: 
+  /Volumes/NAS/Projects/Machine-Learning/classification/heart-disease-classification/env
